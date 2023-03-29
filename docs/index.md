@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Cesar's Resume
 ---
 # Cesar Ventura 
 Supply Chain Student @Brigham Young University-Idaho.
